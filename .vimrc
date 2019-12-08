@@ -1,0 +1,12 @@
+set t_Co=256
+syntax on
+set showmatch
+set autoindent
+set smartindent
+set backspace=2
+set tabstop=4
+set number
+set smarttab
+set shiftwidth=4
+colorscheme molokai
+set foldmethod=manual
